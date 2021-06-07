@@ -1,3 +1,32 @@
+## turtlebot3_autorace_2020 (noetic) - 1.1.0-2
+
+The packages in the `turtlebot3_autorace_2020` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic --track noetic turtlebot3_autorace_2020 --edit` on `Mon, 07 Jun 2021 02:57:59 -0000`
+
+These packages were released:
+- `turtlebot3_autorace_2020`
+- `turtlebot3_autorace_camera`
+- `turtlebot3_autorace_core`
+- `turtlebot3_autorace_detect`
+- `turtlebot3_autorace_driving`
+- `turtlebot3_autorace_msgs`
+
+Version of package(s) in repository `turtlebot3_autorace_2020`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_autorace_2020.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.1.0-1`
+- new version: `1.1.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot3_autorace_2020 (noetic) - 1.1.0-1
 
 The packages in the `turtlebot3_autorace_2020` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic --track noetic turtlebot3_autorace_2020 --edit` on `Mon, 31 May 2021 07:11:07 -0000`

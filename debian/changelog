@@ -1,0 +1,23 @@
+ros-noetic-turtlebot3-autorace-driving (1.1.1-2focal) focal; urgency=high
+
+  * Modified opencv packages (#6)
+  * Contributors: Ashe Kim, Will Son
+
+ -- Ashe Kim <ashekim@robotis.com>  Mon, 01 Nov 2021 15:00:00 -0000
+
+ros-noetic-turtlebot3-autorace-driving (1.1.0-2focal) focal; urgency=high
+
+  * Noetic package release
+  * Contributors: Ashe Kim, Will Son
+
+ -- Ashe Kim <ashekim@robotis.com>  Thu, 27 May 2021 15:00:00 -0000
+
+ros-noetic-turtlebot3-autorace-driving (1.0.0-2focal) focal; urgency=high
+
+  * package separation for each mission
+  * updated with 2020 TurtleBot3 Autorace
+  * Contributors: Ashe Kim
+
+ -- Ashe Kim <ashekim@robotis.com>  Mon, 02 Mar 2020 15:00:00 -0000
+
+
